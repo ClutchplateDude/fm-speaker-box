@@ -1,6 +1,4 @@
-# fm-speaker-box
-
-## FM Speaker box, aka Xmas Pulpit
+# FM Speaker box, aka Xmas Pulpit
 
 ### Introduction
 This is the firmware that runs on a ESP8266 NodeMCU board to control these
