@@ -77,6 +77,8 @@ I used an old 12V subwoofer computer speaker I had left over, so you may need to
 Other than that, these are the parts I used for my box, but you can probably find alternatives and
 other suppliers.
 You may beed some wires and connectors not listed below. Also the switch in the wiring diagram is not needed, I usually just cut power.
+Also, some kind of breadboard (solderable) is probably useful to hold the microcontroller and to be able to solder wires to the board instead of the microcontroller directly.
+A 3D printer can be used to print a holder for all the components.
 
 | Item| Description| Link|
 |--------|---------|------|
