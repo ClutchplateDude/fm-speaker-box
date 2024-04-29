@@ -1,7 +1,7 @@
 # FM Speaker box, aka Xmas Pulpit
 
 ### Introduction
-This is an outdoor speaker box that can be used to allow passersbyt ot turn on sound (e.g. for a Xmas show).
+This is an outdoor speaker box that can be used to allow passersby to turn on sound (e.g. for a Xmas show).
 It only requires power (120V), everything else is wireless. It uses a FM receiver to pick up the sound to play.
 
 This repository contains the firmware that runs on a ESP8266 NodeMCU board (probably will run on a ESP32 as well) to control these
